@@ -5,7 +5,7 @@
     "github>torico-tokyo/flutter-renovate-config:autoMerge",
     "github>torico-tokyo/flutter-renovate-config:ignoreDeps"
   ],
-  "label": [
+  "labels": [
     "dependencies",
     "renovate"
   ],
