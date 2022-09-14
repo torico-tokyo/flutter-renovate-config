@@ -1,0 +1,12 @@
+{
+  "ignoreDeps": [
+    "cloud_firestore",
+    "firebase_messaging",
+    "firebase_remote_config",
+    "firebase_crashlytics",
+    "firebase_analytics",
+    "firebase_core",
+    "firebase_dynamic_links",
+    "firebase_messaging"
+  ]
+}

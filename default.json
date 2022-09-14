@@ -1,0 +1,17 @@
+{
+  "extends": [
+    "config:base",
+    "github>torico-tokyo/flutter-renovate-config:schedule",
+    "github>torico-tokyo/flutter-renovate-config:autoMerge",
+    "github>torico-tokyo/flutter-renovate-config:ignoreDeps"
+  ],
+  "label": [
+    "dependencies",
+    "renovate"
+  ],
+  "rangeStrategy": "bump",
+  "enabledManagers": [
+    "github-actions",
+    "pub"
+  ]
+}
