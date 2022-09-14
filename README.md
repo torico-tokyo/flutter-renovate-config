@@ -1,3 +1,5 @@
+[![Validate Renovate Config](https://github.com/torico-tokyo/flutter-renovate-config/actions/workflows/validate-renovate-config.yml/badge.svg)](https://github.com/torico-tokyo/flutter-renovate-config/actions/workflows/validate-renovate-config.yml)
+
 # flutter-renovate-config
 
 Flutter用 Renovate 共通設定
